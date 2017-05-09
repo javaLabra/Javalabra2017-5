@@ -83,6 +83,6 @@ Kansiorakenne:
 ### Palauta Githubiin ja rekisteröi itsesi kurssin labtooliin
 
 Puske (push) kaikki edellä tehdyt muutokset ja lisäykset Githubiin Git-ohjeiden mukaisesti.
-Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register. **Valitse listasta periodiasi vastaava kurssi (esim. Javalabra2015-1 vastaa ykkösperiodin kurssia vuonna 2015).** Periodit 5/alkukesä ja 6/loppukesä viittavat kesän opintojaksoihin. Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
+Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register. **Valitse listasta periodiasi vastaava kurssi (esim. Javalabra2017-1 vastaa ykkösperiodin kurssia vuonna 2017).** Periodit 5/alkukesä ja 6/loppukesä viittavat kesän opintojaksoihin. Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
 
 **Palautuksia ei lähetetä sähköpostilla. Jos törmäät ongelmiin, niin älä jää murhehtimaan yksinäsi, vaan lähetä sähköpostia ohjaajille. Palautukseksi katsotaan viimeisin ennen deadlinea tehty Github pushaus. Ohjaajat siis seuraavat edistymistä suoraan Github-repositoriosi kautta ja antavat palautetta työstäsi pajassa sekä labtoolin välityksellä** http://tktl-labtool.herokuapp.com/mypage
