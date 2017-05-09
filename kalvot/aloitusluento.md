@@ -1,16 +1,17 @@
 % Aineopintojen harjoitustyö: Ohjelmointi (Javalabra)
-% Heikki Ahonen, Miika Säynevirta
-% 13.3.2017
+% Hilla Fred, Irene Nikkarinen
+% 17.5.2017
 
 # Ohjaajat
 
 - Ohjaajat
-    - Heikki Ahonen -- **HeikkiHei** -- etunimi.sukunimi@cs.helsinki.fi
-    - Miika Säynevirta -- **Mayse** -- etunimi.sukunimi@cs.helsinki.fi
+    - Hilla Fred -- **hihihi** -- etunimi.sukunimi@cs.helsinki.fi
+    - Irene Nikkarinen -- **petitcharp** -- etunimi.sukunimi@helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#javalabra** @ IRCnet
-- Kurssisivu https://github.com/javaLabra/Javalabra2017-4
+- Telegram keskustelu **liittymislinkki READMEssä**
+- Kurssisivu https://github.com/javaLabra/Javalabra2017-5
 
 # Mistä kyse?
 
@@ -39,13 +40,13 @@
 - Ohjelman **on toimittava** laitoksen tietokoneilla
 - Tuloksena **suoritettava ohjelma**
     - Ei pelkkä kirjasto tai muu suorittamattomissa oleva läjä koodia
-- Ohjelmalla oltava **graaffinen käyttöliittymä** (esim. Swing)
+- Ohjelmalla oltava **graafinen käyttöliittymä** (esim. JavaFX tai Swing)
 
 # Kurssin sisältö
 
 - Esimerkkiaiheita:
     - Pacman, laivanupotus, Tetris, Pong, miinaharava, muistipeli
-    - IRC- tai Slack-botti, laskin
+    - IRC-, Telegram- tai Slack-botti, laskin
     - Fysiikkasimulaattori
     - Lisää esimerkkiaiheita kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
@@ -69,28 +70,28 @@
 
 # Checkstyle
 
-- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista 
+- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista
 - Tämän takaamiseksi kurssilla käytetään *Ohjelmoinnin perusteet* ja *Ohjelmoinnin jatkokurssi* -kursseilla käytössä olevaa Checkstyleä.
 
 # Kurssin kulku
 
 - **Deadlinet** aikataulun mukaan aina torstaisin kello 23:59
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon torstaina!**
+    - Deadlinen vaatimukset löytyvät **tehtävät ja palautus**-kohdasta GitHubista
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia!!
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
-    - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
+    - Ohjaajat antavat palautetta edistymisestä labtoolissa joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
     - **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
+-  **Ensimmäinen deadline on poikkeuksellisesti tänä perjantaina 19.5. klo 23.59**
 
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
     - Pajaa tarjolla 2 kertaa viikossa, aikataulu kurssisivulla
-    - Luokassa **B221** (toisen kerroksen pajaluokka) jollei toisin mainita
-    - Täysin vapaaehtoista
+    - Luokassa **B221** tai **BK107** (toisen ja kellarikerroksen pajaluokat)- katso paikka aikataulusta
     - **Paras väylä saada apua ja palautetta ohjaajilta**
-    - Ohjausta tarjolla myös IRC:ssä kanavalla #javalabra
+    - Ohjausta tarjolla myös IRC:ssä ja telegrammissa
 
 # Kurssin kulku
 
@@ -120,7 +121,8 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2017-4
+- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
+     - Käy kurssisivulla katsomassa tarkat vaatimukset (labtool ja GitHub-repositorio)
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2017-5
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
