@@ -13,8 +13,8 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Heikki Ahonen (HeikkiHei) etunimi.sukunimi@cs.helsinki.fi
-* Miika Säynevirta (Mayse) etunimi.sukunimi@cs.helsinki.fi
+* Hilla Fred (hihihi) etunimi.sukunimi@cs.helsinki.fi
+* Irene Nikkarinen (petitcharp) etunimi.sukunimi@cs.helsinki.fi
 
 **Kurssin IRC-kanava**:
 \#javalabra @ IRCnet
@@ -24,8 +24,6 @@
 ## Uutisia
 
 Tähän tulee kurssin aikana tapahtuvat muutokset ja poikkeukset <br>
-**Paja 2.5. klo 14-16 luokassa BK107** <br>
-**Demotilaisuudet 25.4. klo 14-16 B119 ja 27.4. klo 14-16 C122**
 
 # Aikataulu
 
@@ -35,17 +33,13 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **11**<br>13.03.-<br>19.03. | Aloitustilaisuus<br>klo 10-11 **D112** | **Paja** B221<br>14-16 | | **Paja** B221<br>16-19<br>**DL 1**<br>23:59 |  |  |  |
-| **12**<br>20.03.-<br>26.03. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **DL 2**<br>23:59 |  |  |  |
-| **13**<br>27.03.-<br>02.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **DL 3**<br>23:59 |  |  | **Katselmointi 1 DL**<br>23:59 |
-| **14**<br>03.04.-<br>09.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **DL 4**<br>23:59 |  |  |  |
-| **15**<br>10.04.-<br>16.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | PÄÄSIÄISTAUKO ALKAA | |  |  |
-| **15**<br>17.04.-<br>23.04. |  | | PÄÄSIÄISTAUKO PÄÄTTYY | **DL 5**<br>23:59 |  |  | **Katselmointi 2 DL**<br>23:59 |
-| **17**<br>24.04.-<br>30.04. |  | **Demo**<br> B119<br>14-16<br>**Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **Demo**<br> C122<br>14-16<br>**DL 6**<br>23:59 |  |  |  |
-| **18**<br>01.05.-<br>07.05. |  | **Paja** BK107<br>14-16 | **Paja** B221<br>16-19 | **Loppupalautus**<br>23:59 |  |  |  |
+| **20**<br>15.05.-<br>21.05. |  |  | Aloitustilaisuus<br>klo 14-15 **B119** | **Paja** B221<br>14-16<br> | **DL 1**<br>23:59 |  |  |
+| **21**<br>22.05.-<br>28.05. |  | **Paja** B221<br>16-18 | **Paja** B221<br>14-16 |  **DL 2**<br>23:59 |  |  |  |
+| **22**<br>29.05.-<br>04.06. |  | **Paja** B221<br>16-18 |  | **Paja** BK107<br>14-16 **DL 3**<br>23:59 |  |  | **Katselmointi 1 DL**<br>23:59 |
+| **23**<br>05.06.-<br>11.06. |  | **Paja** B221<br>16-18 |  | **Paja** B221<br>14-16 **DL 4**<br>23:59 |  |  |  |
+| **24**<br>12.06.-<br>19.06. |  | **Paja** B221<br>16-18 |  | **Paja** B221<br>14-16 **DL 5**<br>23:59 |  |  |**Katselmointi 2 DL**<br>23:59 |
+| **25**<br>19.06.-<br>25.06. |  | **Paja** B221<br>16-18 |  |  **Paja** B221<br>14-16 |  |  | **Loppupalautus**<br>23:59 |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* **HUOM 2!** **Demotilaisuudet 25.4. klo 14-16 B119 ja 27.4. klo 14-16 C122**
-
-* Lopullinen palautus 4.5.2017 klo 23:59
+* Lopullinen palautus 25.6.2017 klo 23:59
