@@ -15,34 +15,3 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Deadline 1, pe 19.5. klo 23:59
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
-
-### Deadline 2, to 25.5. klo 23:59
-* [Deadlinen 2 vaatimukset](Deadline-2.md)
-
-### Deadline 3, to 1.6. klo 23:59
-* [Deadlinen 3 vaatimukset](Deadline-3.md)
-
-### Ensimmäinen katselmointi, su 4.6. klo 23:59
-* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
-
-### Deadline 4, to 8.6. klo 23:59
-* [Deadlinen 4 vaatimukset](Deadline-4.md)
-
-### Deadline 5, to 15.6. klo 23:59
-* [Deadlinen 5 vaatimukset](Deadline-5.md)
-
-### Toinen katselmointi, su 19.6. klo 23:59
-* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
-
-### Loppupalautus su 25.6. klo 23:59
-* [Deadlinen 6 vaatimukset](Deadline-6.md)
-* [Loppupalautuksen checklist!](Deadline-loppupalautus.md)
-
-### Demot
-
-* **Demotilaisuus on kaikille pakollinen**
-* Demojen ajankohdat löytyy kalenterista etusivulta.
-* Omaa työtä esitetään 3-7 min.
-* Ohjelman ei tarvitse olla demottaessa valmis tai bugiton
-* Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
-* Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
