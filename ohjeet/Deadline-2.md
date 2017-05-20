@@ -57,6 +57,6 @@
 ##### Piirtotyökaluja
 
 Kurssiin soveltuvia piirtotyökaluja ovat:
-* [https://www.draw.io/] (https://www.draw.io/) yleispätevä piirtotyökalu kaikkiin kurssilla vaadittaviin kaavioihin
+* [https://www.draw.io/](https://www.draw.io/) yleispätevä piirtotyökalu kaikkiin kurssilla vaadittaviin kaavioihin
 * [http://yuml.me/](http://yuml.me/) luokka- ja käyttötapauskaavioihin
 * [https://www.websequencediagrams.com/](https://www.websequencediagrams.com/) sekvenssikaavioihin
