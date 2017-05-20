@@ -15,3 +15,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Deadline 1, pe 19.5. klo 23:59
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
+
+### Deadline 2, to 25.5. klo 23:59
+* [Deadlinen 2 vaatimukset](Deadline-2.md)
+
