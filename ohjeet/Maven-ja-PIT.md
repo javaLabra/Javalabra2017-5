@@ -125,7 +125,7 @@ Avaa tiedosto ja korvaa sen sisältö tällä:
 </actions>
 ```
 
-Tallenna ja aja projektille **Clean and Build**. Nyt kun klikkaat projektia oikealla hiirennäppäimellä, **Custom**-valikon alta pitäisi löytyä  _pit-_vaihtoehto.
+Tallenna ja aja projektille **Clean and Build**. Nyt kun klikkaat projektia oikealla hiirennäppäimellä, **Custom**-valikon alta pitäisi löytyä  _pit-_vaihtoehto. Jos tässä vaiheessa raportin generoiminen Netbeansin valikosta aiheuttaa poikkeuksen, eikä pit näytä löytävän testejä, määritä testiluokkien sijainti pitille kohdan **Pitin konfigurointi**-mukaan.
 
 ### Raportit
 
@@ -203,4 +203,6 @@ No mutations found. This probably means there is an issue with either the suppli
 
 * Myös jos pom.xml:n groupId:ssa on sana 'java', niin Pit-raportti voi generoitua näyttämään 0% rivi- ja mutaatiokattavuudeksi. Esimerkiksi pakettirakenne 'javalabra.korttipeli' EI siis toimi ja paketin 'javalabra' nimi täytyy muuttaa ja korjata groupId pom.xml -tiedossa.
 
-* Pit antaa myös (epäinformatiivisen) virheilmoituksen, jos projektissa ei löydy main metodia
+* Pit antaa myös (epäinformatiivisen) virheilmoituksen, jos projektissa ei löydy main metodia.
+
+* Jos Pit näyttää kuitenkin löytävän testit, tarkista, että main-luokkasi ei ole tyhjä.
