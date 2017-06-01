@@ -24,3 +24,6 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Ensimmäinen katselmointi, su 4.6. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
+
+### Deadline 4, to 8.6. klo 23:59
+* [Deadlinen 4 vaatimukset](Deadline-4.md)
