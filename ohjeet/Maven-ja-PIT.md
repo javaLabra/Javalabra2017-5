@@ -125,7 +125,7 @@ Avaa tiedosto ja korvaa sen sisältö tällä:
 </actions>
 ```
 
-Tallenna ja aja projektille **Clean and Build**. Nyt kun klikkaat projektia oikealla hiirennäppäimellä, **Custom**-valikon alta pitäisi löytyä  _pit-_vaihtoehto. Jos tässä vaiheessa raportin generoiminen Netbeansin valikosta aiheuttaa poikkeuksen, eikä pit näytä löytävän testejä, määritä testiluokkien sijainti pitille kohdan **Pitin konfigurointi**-mukaan.
+Tallenna ja aja projektille **Clean and Build**. Nyt kun klikkaat projektia oikealla hiirennäppäimellä, **Custom (tai Run Maven)**-valikon alta pitäisi löytyä  _pit-_vaihtoehto. Jos tässä vaiheessa raportin generoiminen Netbeansin valikosta aiheuttaa poikkeuksen, eikä pit näytä löytävän testejä, määritä testiluokkien sijainti pitille kohdan **Pitin konfigurointi**-mukaan.
 
 ### Raportit
 
