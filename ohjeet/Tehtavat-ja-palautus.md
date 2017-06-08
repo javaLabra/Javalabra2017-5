@@ -27,3 +27,9 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Deadline 4, to 8.6. klo 23:59
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
+
+### Deadline 5, to 15.6. klo 23:59
+* [Deadlinen 5 vaatimukset](Deadline-5.md)
+
+### Toinen katselmointi, su 19.6. klo 23:59
+* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
