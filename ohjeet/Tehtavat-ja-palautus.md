@@ -33,3 +33,12 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Toinen katselmointi, su 19.6. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
+
+### Jos pushaat keskiviikkoiltaan 21.6. mennessä projektisi GitHubiin, saat labtooliin ohjaajilta kommentteja ennen juhannusta
+* Kyseessä ei siis ole varsinainen deadline, eikä tarjolla ole pisteitä
+
+### Loppupalautus ke 28.6. klo 23:59 (HUOMAA MUUTTUNUT AIKA)
+* Loppupalautuksessa voi ansaita normaalin deadlinen tapaan 2 pistettä
+* [Lopullisen palautuksen vaatimukset (Deadline 6)](Deadline-6.md)
+* Tarkista, että kaikki on kunnossa käyttäen [muistilistaa](Muistilista.md)
+* [Arvosteluperusteet](Arvosteluperusteet.md)
