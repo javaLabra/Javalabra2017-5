@@ -13,8 +13,10 @@
   * Yksityisille (private) metodeille
   * Gettereille ja Settereille, jotka eivät tee mitään ylimääräistä
   * Käyttöliittymäluokkien metodeille (esim Netbeanssin generoimat JFramet yms.)
-* JavaDoc tulee sijoittaa omaan kansioonsa repositorion juureen (ks. [kansiorakenne](Deadline-1.md#noudata-kansiorakennetta))
 * Generoi HTML javadoc [ohjeiden](JavaDoc.md#javadocin-generointi) mukaan.
+* Docit generoityvat kansioon `target/site/apidocs`
+* Kopioi apidocs repositorion juureen (ks. [kansiorakenne](Deadline-1.md#noudata-kansiorakennetta))
+* JavaDoc kannattaa myös linkata pit- ja checkstyle-raporttien tapaan README:hen
 
 ### Kirjoita rakennekuvaus
 * Kirjoita lyhyt, muutaman tekstikappaleen kuvaus ohjelmasi rakenteesta
